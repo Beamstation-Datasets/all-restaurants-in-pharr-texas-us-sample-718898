@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All verified restaurant listings in Pharr, Texas. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Pharr, Texas, US",
+  "export_job_id": "4d7830fd-7d55-4d06-abf1-bd3b32b0c433",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 718898,
+  "location_name": "Pharr",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-pharr-texas-us-sample-718898",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/718898/beamstation_718898_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 21,
+  "sample_sha256": "d22e6343fd41143a36e487cb31dedcb7b789e226724fbea7ba38d1aeb2164db6",
+  "sample_size_bytes": 92443,
+  "total_records": 210,
+  "updated_at": "2026-04-09T12:57:01.581340+00:00"
+}
