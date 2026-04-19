@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "All verified restaurant listings in Pharr, Texas. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
   "config_name": "All Restaurants in Pharr, Texas, US",
-  "export_job_id": "4d7830fd-7d55-4d06-abf1-bd3b32b0c433",
+  "export_job_id": "27a3fdaf-c6c2-4adf-aa3a-082a2b114652",
   "github_org": "Beamstation-Datasets",
   "id_short": 718898,
   "location_name": "Pharr",
@@ -18,5 +18,5 @@
   "sample_sha256": "d22e6343fd41143a36e487cb31dedcb7b789e226724fbea7ba38d1aeb2164db6",
   "sample_size_bytes": 92443,
   "total_records": 210,
-  "updated_at": "2026-04-09T12:57:01.581340+00:00"
+  "updated_at": "2026-04-16T12:54:34.484403+00:00"
 }
