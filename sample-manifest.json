@@ -1,12 +1,12 @@
 {
-  "export_job_id": "36005a6a-0b5f-4e76-88e9-cb49960de337",
+  "export_job_id": "fdb26bde-c546-4740-8efd-4af19c6252c4",
   "id_short": 718898,
-  "published_at": "2026-04-23T19:36:18Z",
+  "published_at": "2026-04-30T19:31:00Z",
   "repo_name": "all-restaurants-in-pharr-texas-us-sample-718898",
   "sample_asset_name": "beamstation_718898_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/718898/beamstation_718898_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 16,
-  "sample_sha256": "d11b7a402937b9ecdfb4f05174d2b2210abb202d17bcda1640079e0c5549983c",
-  "sample_size_bytes": 42781,
-  "total_records": 165
+  "sample_records": 25,
+  "sample_sha256": "d06508b5c3af142a3f34e67566fb6919376f7ded8eed9d20cb833473c2b95dba",
+  "sample_size_bytes": 96459,
+  "total_records": 252
 }
