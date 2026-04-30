@@ -1,6 +1,6 @@
 # All Restaurants in Pharr, Texas, US
 
-> Free BeamStation sample export with 16 rows and masked direct-contact fields.
+> Free BeamStation sample export with 25 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `718898` |
 | Location | Pharr |
 | Category | Restaurants |
-| Full dataset size | 165 records |
-| Free sample size | 16 records (9.7%) |
-| Last export | 2026-04-23T12:06:14.773345+00:00 |
+| Full dataset size | 252 records |
+| Free sample size | 25 records (9.92%) |
+| Last export | 2026-04-30T12:31:53.904780+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-pharr-texas-us-sample-718898/releases/download/sample-latest/beamstation_718898_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
